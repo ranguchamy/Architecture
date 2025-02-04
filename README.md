@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ranguchamy/Architecture/refs/heads/main/JVM%20Architecture-2025-02-04-105832.png
+![JVM Architecture-2025-02-04-105832](https://github.com/user-attachments/assets/228899ad-3a69-4eda-811b-27623f022e78)
 
 We'll map the JVM to a Car 🚗 and how it processes Java code (Fuel) to drive (Execution).
 ________________________________________
