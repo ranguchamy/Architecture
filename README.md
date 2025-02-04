@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/ranguchamy/Architecture/refs/heads/main/JVM%20Architecture-2025-02-04-105832.png
+
 We'll map the JVM to a Car 🚗 and how it processes Java code (Fuel) to drive (Execution).
 ________________________________________
 🚗 JVM as a Car - A Perfect Analogy
